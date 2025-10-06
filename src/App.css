@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+
+@layer components {
+    h2 {
+        @apply text-3xl font-bold leading-7
+    }
+
+}
